@@ -1,9 +1,11 @@
 const inquirer = require("inquirer");
 const fs = require("fs");
+const generateMarkdown = require("./utils/generateMarkdown.js");
+
 
 
 // array of questions for user
-const questions = 
+const questions = () =>
 inquirer.prompt([
             {
     type: "input",
@@ -19,7 +21,7 @@ inquirer.prompt([
 
     {
         type: "input",
-        name: "instalation",
+        name: "installation",
         message:"What type of instalation did you need for your project?",
 
     },
@@ -49,7 +51,7 @@ inquirer.prompt([
         type: "list",
         name: "license",
         message:"Select License used for this Project?",
-        choices: ["MIT", "APACHE 2.0", "ISC", "Public Domain", "GPL", "BSD"],
+        choices: ["MIT", "APACHE","ISC","Other" ],
 
     },
 
@@ -72,10 +74,12 @@ inquirer.prompt([
 
 // function to write README file
 function writeToFile(fileName, data) {
+
 }
 
 // function to initialize program
 function init() {
+    inquirer.prompt(questions).then(data)
 
 }
 
