@@ -1,41 +1,13 @@
 
-  # hi 
-
-  
-  ![license Badge](https://img.shields.io/badge/license-APACHE-blue.svg)
-  
-  
-
-  ## Table of Contents 
-
-  * [Describtion](#Describtion)
-  * [Installation](#Insallation)
-  * [Usage](#Usage)
-  * [Test](#Test)
-  * [Contributors](#Contributors)
-  * [License](#License)
-  * [Contact Information](#ContactInfo)
+  # README.md Generator 
 
   ## Describtion 
-  hiehdwd
+  For this weeks project we used node.js and created a command line application that generates a README.md file. 
 
   ## Installation 
-  dhwhdow
+  This application does require for user to install <code> npm init</code> and <code>npm install inquirer</code>. 
 
-  ## usage 
-  hefwdiwnd
-
-  ## Tests 
-  qnidowqndqnw
-
-  ## Contributors
-  whdiqnwdiw
-
+  ## Demo 
+  A quick video demonstrating how the application works. 
+  <iframe src="https://drive.google.com/file/d/1DwEFGDAvHsgxlr3C3KbRNiLXkMUy7gTH/preview" width="640" height="480"></iframe>
   
-
-  ## Contact informaion 
-
-  Interested in my work? Please visit [https://github.com/chavelyo3](https://github.com/chavelyo3) <br>
-  For any questions, please contact me at email@email.com 
-
-
