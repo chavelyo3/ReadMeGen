@@ -2,7 +2,7 @@
   # hi 
 
   
-  ![license Badge](https://img.shields.io/badge/license-MIT-blue.svg)
+  ![license Badge](https://img.shields.io/badge/license-ISC-blue.svg)
   
   
 
@@ -17,24 +17,27 @@
   * [Contact Information](#ContactInfo)
 
   ## Describtion 
-  hello 
-
-  ## Installation 
   how 
 
+  ## Installation 
+  are 
+
   ## usage 
-  ae you 
+  you 
 
   ## Tests 
-  yes
+  ???
 
   ## Contributors
-  ok
+  today
 
   
 
   ## Contact informaion 
-  For any questions, please contact me at email@mail.com.
-  Interested in seeing more of my work? Please visit [https://github.com/chavelyo3](https://github.com/chavelyo3)
+  
+  Interested in my work? Please visit [https://github.com/chavelyo3](https://github.com/chavelyo3) 
+
+  For any questions, please contact me at email@email.com 
+
 
 

@@ -47,8 +47,9 @@ function generateMarkdown(data) {
   
 
   ## Contact informaion 
-  For any questions, please contact me at ${data.Email}\n
-  Interested in seeing more of my work? Please visit [https://github.com/${data.Username}](https://github.com/${data.Username})
+  
+  Interested in my work? Please visit [https://github.com/${data.Username}](https://github.com/${data.Username}) \n
+  For any questions, please contact me at ${data.Email} \n
 
 
 `;
