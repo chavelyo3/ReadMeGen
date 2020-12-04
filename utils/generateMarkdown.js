@@ -1,8 +1,8 @@
 //function to crete license badge 
-function createLicenseBadge(license){
+function createLicenseBadge(License){
   
   return `
-  ![license Badge](https://img.shields.io/badge/license-${license}-blue.svg)
+  ![license Badge](https://img.shields.io/badge/license-${License}-blue.svg)
   
   `
 }
@@ -15,14 +15,15 @@ function createLicenseBadge(license){
 // function to generate markdown for README
 function generateMarkdown(data) {
   return `
-  # ${data.title}
+  # ${data.Title}
 
-  ${createLicenseBadge(data.license)}
+  ${createLicenseBadge(data.License)}
 
   ## Table of Contents 
+  
   *[Describtion](#Describtion)
   *[Installation](#Insallation)
-  *[Usage](#usage)
+  *[Usage](#Usage)
   *[Test](#Test)
   *[Contributors](#Contributors)
   *[License](#License)
@@ -35,20 +36,20 @@ function generateMarkdown(data) {
   ${data.Installation}
 
   ## usage 
-  ${data.usage}
+  ${data.Usage}
 
   ## Tests 
   ${data.Test}
 
   ## Contributors
-  ${data.contributors}
+  ${data.Contributors}
 
   ## License 
-  ${createLicenseBadge(data.license)}
+  ${createLicenseBadge(data.License)}
 
   ## Contact informaion 
-  For any questions, please contact me at ${data.email}.
-  Interested in seeing more of my work? Please visit [https://github.com/${data.username}](https://github.com/${data.username})
+  For any questions, please contact me at ${data.Email}.
+  Interested in seeing more of my work? Please visit [https://github.com/${data.Username}](https://github.com/${data.Username})
 
 
 `;
