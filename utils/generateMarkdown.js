@@ -21,13 +21,13 @@ function generateMarkdown(data) {
 
   ## Table of Contents 
 
-  *[Describtion](#Describtion)\n
-  *[Installation](#Insallation)\n
-  *[Usage](#Usage)\n
-  *[Test](#Test)\n
-  *[Contributors](#Contributors)\n
-  *[License](#License)\n
-  *[Contact Information](#ContactInfo)\n
+  *[Describtion](#Describtion)
+  *[Installation](#Insallation)
+  *[Usage](#Usage)
+  *[Test](#Test)
+  *[Contributors](#Contributors)
+  *[License](#License)
+  *[Contact Information](#ContactInfo)
 
   ## Describtion 
   ${data.Describtion}
@@ -44,8 +44,7 @@ function generateMarkdown(data) {
   ## Contributors
   ${data.Contributors}
 
-  ## License 
-  ${createLicenseBadge(data.License)}
+  
 
   ## Contact informaion 
   For any questions, please contact me at ${data.Email}.
