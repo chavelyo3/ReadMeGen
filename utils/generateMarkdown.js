@@ -20,14 +20,14 @@ function generateMarkdown(data) {
   ${createLicenseBadge(data.License)}
 
   ## Table of Contents 
-  
-  *[Describtion](#Describtion)
-  *[Installation](#Insallation)
-  *[Usage](#Usage)
-  *[Test](#Test)
-  *[Contributors](#Contributors)
-  *[License](#License)
-  *[Contact Information](#ContactInfo)
+
+  *[Describtion](#Describtion)\n
+  *[Installation](#Insallation)\n
+  *[Usage](#Usage)\n
+  *[Test](#Test)\n
+  *[Contributors](#Contributors)\n
+  *[License](#License)\n
+  *[Contact Information](#ContactInfo)\n
 
   ## Describtion 
   ${data.Describtion}

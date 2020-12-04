@@ -2,42 +2,50 @@
   # hi 
 
   
-  ![license Badge](https://img.shields.io/badge/license-MIT-blue.svg)
+  ![license Badge](https://img.shields.io/badge/license-Other-blue.svg)
   
   
 
   ## Table of Contents 
+
   *[Describtion](#Describtion)
+
   *[Installation](#Insallation)
+
   *[Usage](#Usage)
+
   *[Test](#Test)
+
   *[Contributors](#Contributors)
+
   *[License](#License)
+
   *[Contact Information](#ContactInfo)
 
+
   ## Describtion 
-  how 
+  hello 
 
   ## Installation 
-  are 
+  how 
 
   ## usage 
-  you
+  are 
 
   ## Tests 
-  i am 
+  name 
 
   ## Contributors
-  ???
+  you 
 
   ## License 
   
-  ![license Badge](https://img.shields.io/badge/license-MIT-blue.svg)
+  ![license Badge](https://img.shields.io/badge/license-Other-blue.svg)
   
   
 
   ## Contact informaion 
-  For any questions, please contact me at bored.
-  Interested in seeing more of my work? Please visit [https://github.com/so ](https://github.com/so )
+  For any questions, please contact me at email@email.com.
+  Interested in seeing more of my work? Please visit [https://github.com/chavelyo3](https://github.com/chavelyo3)
 
 
