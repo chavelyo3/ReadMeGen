@@ -2,26 +2,19 @@
   # hi 
 
   
-  ![license Badge](https://img.shields.io/badge/license-Other-blue.svg)
+  ![license Badge](https://img.shields.io/badge/license-MIT-blue.svg)
   
   
 
   ## Table of Contents 
 
-  *[Describtion](#Describtion)
-
-  *[Installation](#Insallation)
-
-  *[Usage](#Usage)
-
-  *[Test](#Test)
-
-  *[Contributors](#Contributors)
-
-  *[License](#License)
-
-  *[Contact Information](#ContactInfo)
-
+  * [Describtion](#Describtion)
+  * [Installation](#Insallation)
+  * [Usage](#Usage)
+  * [Test](#Test)
+  * [Contributors](#Contributors)
+  * [License](#License)
+  * [Contact Information](#ContactInfo)
 
   ## Describtion 
   hello 
@@ -30,22 +23,18 @@
   how 
 
   ## usage 
-  are 
+  ae you 
 
   ## Tests 
-  name 
+  yes
 
   ## Contributors
-  you 
+  ok
 
-  ## License 
-  
-  ![license Badge](https://img.shields.io/badge/license-Other-blue.svg)
-  
   
 
   ## Contact informaion 
-  For any questions, please contact me at email@email.com.
+  For any questions, please contact me at email@mail.com.
   Interested in seeing more of my work? Please visit [https://github.com/chavelyo3](https://github.com/chavelyo3)
 
 

@@ -21,13 +21,13 @@ function generateMarkdown(data) {
 
   ## Table of Contents 
 
-  *[Describtion](#Describtion)
-  *[Installation](#Insallation)
-  *[Usage](#Usage)
-  *[Test](#Test)
-  *[Contributors](#Contributors)
-  *[License](#License)
-  *[Contact Information](#ContactInfo)
+  * [Describtion](#Describtion)
+  * [Installation](#Insallation)
+  * [Usage](#Usage)
+  * [Test](#Test)
+  * [Contributors](#Contributors)
+  * [License](#License)
+  * [Contact Information](#ContactInfo)
 
   ## Describtion 
   ${data.Describtion}
@@ -47,7 +47,7 @@ function generateMarkdown(data) {
   
 
   ## Contact informaion 
-  For any questions, please contact me at ${data.Email}.
+  For any questions, please contact me at ${data.Email}\n
   Interested in seeing more of my work? Please visit [https://github.com/${data.Username}](https://github.com/${data.Username})
 
 
