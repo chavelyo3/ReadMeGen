@@ -9,5 +9,8 @@
 
   ## Demo 
   A quick video demonstrating how the application works. 
-  <iframe src="https://drive.google.com/file/d/1DwEFGDAvHsgxlr3C3KbRNiLXkMUy7gTH/preview" width="640" height="480"></iframe>
+  
+  
+  <br>Click [here](https://drive.google.com/file/d/1DwEFGDAvHsgxlr3C3KbRNiLXkMUy7gTH/view) to view video demo. <br>
+
   
