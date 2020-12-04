@@ -11,6 +11,6 @@
   A quick video demonstrating how the application works. <br>
   ![demo](https://github.com/chavelyo3/ReadMeGen/blob/main/assets/Untitled_%20Dec%204,%202020%201_18%20PM.gif?raw=true)
   
-  <br>Click [here](https://drive.google.com/file/d/1DwEFGDAvHsgxlr3C3KbRNiLXkMUy7gTH/view) to view video demo. <br>
+  Click [here](https://drive.google.com/file/d/1DwEFGDAvHsgxlr3C3KbRNiLXkMUy7gTH/view) to view video demo. <br>
 
   
